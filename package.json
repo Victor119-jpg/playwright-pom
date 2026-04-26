@@ -1,0 +1,21 @@
+{
+  "name": "playwrightpom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "bdd": "cucumber-js"
+
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.7.0",
+    "@playwright/test": "^1.58.1",
+    "@types/node": "^25.3.3",
+    "ts-node": "^10.9.2"
+  }
+}
